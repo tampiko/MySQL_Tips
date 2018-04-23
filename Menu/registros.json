@@ -1,0 +1,13 @@
+[{"men_id":1, "men_padre_id":0, "men_nombre":"Raiz", "men_url":"/", "men_orden":0},
+ {"men_id":2, "men_padre_id":1, "men_nombre":"Archivo", "men_url":"/Archivo", "men_orden":2},
+ {"men_id":3, "men_padre_id":1, "men_nombre":"Edicion", "men_url":"/Edicion", "men_orden":1},
+ {"men_id":4, "men_padre_id":1, "men_nombre":"Herramientas", "men_url":"/Herramientas", "men_orden":3},
+ {"men_id":5, "men_padre_id":2, "men_nombre":"Nuevo", "men_url":"/Archivo/Nuevo", "men_orden":2},
+ {"men_id":6, "men_padre_id":2, "men_nombre":"Abrir", "men_url":"/Archivo/Abrir", "men_orden":1},
+ {"men_id":7, "men_padre_id":2, "men_nombre":"Cerrar", "men_url":"/Archivo/Cerrar", "men_orden":3},
+ {"men_id":8, "men_padre_id":3, "men_nombre":"Cortar", "men_url":"/Edicion/Cortar", "men_orden":2},
+ {"men_id":9, "men_padre_id":3, "men_nombre":"Copiar", "men_url":"/Edicion/Copiar", "men_orden":1},
+ {"men_id":10, "men_padre_id":3, "men_nombre":"Pegar", "men_url":"/Edicion/Pegar", "men_orden":3},
+ {"men_id":11, "men_padre_id":4, "men_nombre":"Pintar", "men_url":"/Herramientas/Pintar", "men_orden":2},
+ {"men_id":12, "men_padre_id":4, "men_nombre":"Recortar", "men_url":"/Herramientas/Recortar", "men_orden":1},
+ {"men_id":13, "men_padre_id":12, "men_nombre":"Intercalar", "men_url":"", "men_orden":7}]
